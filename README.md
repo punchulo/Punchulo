@@ -24,5 +24,5 @@ Aprender haciendo:
 ## 📈 Progreso
 Este perfil irá creciendo a medida que avance en el aprendizaje.
 
-## ⚠️ Todo el contenido se realiza con fines educativos y en entornos controlados.
+# ⚠️ Todo el contenido se realiza con fines educativos y en entornos controlados.
 
