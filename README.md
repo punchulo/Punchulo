@@ -1,4 +1,4 @@
-# 🧪 Pablo García-Bermejo López | Cybersecurity | Offensive Learning Path
+# 🧪 Offensive Security Learning Path
 
 Estoy empezando en **ciberseguridad ofensiva**, centrado en aprender
 metodologías de ataque, enumeración y explotación a través de
