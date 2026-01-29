@@ -18,6 +18,7 @@ Aprender haciendo:
 
 ## 📂 Repositorios
 - Máquinas vulnerables documentadas
+- Proyecto del ahoracado con Python.
 
 ## 📈 Progreso
 Este perfil irá creciendo a medida que avance en el aprendizaje.
