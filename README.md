@@ -1,29 +1,25 @@
-# 🔴 punchis | Offensive Security
+# 🧪 punchis | Cybersecurity (Offensive Path)
 
-Especializado en **ciberseguridad ofensiva**, con foco en evaluación de seguridad,
-automatización y técnicas de ataque en entornos reales.
+Estoy empezando en **ciberseguridad ofensiva**, centrado en aprender
+metodologías de ataque, enumeración y explotación a través de
+**laboratorios y máquinas vulnerables**.
 
-## ⚔️ Áreas de trabajo
-- Pentesting (web / infra)
-- Red Team operations
-- Enumeración y explotación
-- Post-explotación
-- Automatización de ataques
+## 🎯 Objetivo
+Aprender haciendo:
+- Entender cómo se comprometen sistemas
+- Documentar el proceso
+- Mejorar criterio técnico y metodológico
 
-## 🧰 Tooling & Tech
-- Python | Bash
-- Linux
-- Git
-- APIs
-- Metodologías de pentesting
+## 🛠️ Lo que estoy practicando
+- Enumeración básica
+- Explotación inicial
+- Post-explotación básica
+- Automatización sencilla con scripts
 
-## 🧪 Proyectos
-- Scripts de enumeración y automatización
-- Laboratorios y pruebas ofensivas
-- Desarrollo de tooling propio
+## 📂 Repositorios
+- Máquinas vulnerables documentadas
+- Scripts sencillos de apoyo
+- Notas y apuntes técnicos
 
-## 📌 Objetivo
-Mejorar la seguridad atacando como lo haría un adversario real.
-
----
-⚠️ Todos los proyectos se usan únicamente con fines educativos y en entornos controlados.
+## 📈 Progreso
+Este perfil irá creciendo a medida que avance en el aprendizaje.
