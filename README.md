@@ -18,8 +18,6 @@ Aprender haciendo:
 
 ## 📂 Repositorios
 - Máquinas vulnerables documentadas
-- Scripts sencillos de apoyo
-- Notas y apuntes técnicos
 
 ## 📈 Progreso
 Este perfil irá creciendo a medida que avance en el aprendizaje.
