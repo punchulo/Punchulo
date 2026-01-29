@@ -1,16 +1,29 @@
-## Hi there 👋
+# 🔴 punchis | Offensive Security
 
-<!--
-**punchulo/Punchulo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Especializado en **ciberseguridad ofensiva**, con foco en evaluación de seguridad,
+automatización y técnicas de ataque en entornos reales.
 
-Here are some ideas to get you started:
+## ⚔️ Áreas de trabajo
+- Pentesting (web / infra)
+- Red Team operations
+- Enumeración y explotación
+- Post-explotación
+- Automatización de ataques
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧰 Tooling & Tech
+- Python | Bash
+- Linux
+- Git
+- APIs
+- Metodologías de pentesting
+
+## 🧪 Proyectos
+- Scripts de enumeración y automatización
+- Laboratorios y pruebas ofensivas
+- Desarrollo de tooling propio
+
+## 📌 Objetivo
+Mejorar la seguridad atacando como lo haría un adversario real.
+
+---
+⚠️ Todos los proyectos se usan únicamente con fines educativos y en entornos controlados.
